@@ -1,13 +1,14 @@
+# -*- coding: utf-8 -*-
 i = r'ßßßßßß  first string\n \tc \t c\tc'
 print(i)
 print(id(i))
-ß = "Wie heißen Sie?"
+j = "Wie heißen Sie?"
 
-print(ß)
+print(j)
 k = """ third '''''""'
 string"""
 
-l = '''fourth 
+l = '''fourth
 string'''
 
 # print(i,j,k,l)
